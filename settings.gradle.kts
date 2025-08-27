@@ -1,1 +1,1 @@
-rootProject.name = "rewrite-recipe-starter"
+rootProject.name = "my-first-rewrite"
